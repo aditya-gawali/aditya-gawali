@@ -28,8 +28,8 @@ const developer = {
   location: "Pune, India",
   code: ["JavaScript", "TypeScript", "Python", "Java"],
   technologies: {
-    frontend: ["React", "Vue.js", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Django", "Spring Boot", "Express"],
+    frontend: ["React", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "Spring Boot",],
     databases: ["PostgreSQL", "MongoDB", "Redis"],
     tools: ["Docker", "AWS", "Git", "VS Code"]
   },
